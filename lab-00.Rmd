@@ -47,19 +47,18 @@ p1
 ```
 
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+Representation of username, favourite number and favourite colour
 
 ### Exercises 19
 
 Change the text of the plot title and axis labels.
 
 ```{r labelled-bar-plot}
-p1 + labs(x = "Insert text here", 
-          y = "Insert text here",
-          title = "Insert text here")
+p1 + labs(x = "username", 
+          y = "number",
+          title = "Graph of username, favourite number and colour")
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 19 here.*
 
 ### Exercise 20
 
